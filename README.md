@@ -3,7 +3,7 @@ Hi, my name is Panagiotis Antoniadis 👋
 </h2>
 
 <p align=center>
-I am currently working as a Machine Learning Engineer at <a target="_blank" href="https://deeplab.ai/">DeepLab</a>. Previously, I graduated from ECE at the National Technical University of Athens. My research interests lie in the areas of computer vision, signal processing and machine learning.
+I work as a Machine Learning Engineer at <a target="_blank" href="https://deeplab.ai/">DeepLab</a>. My goal is to leverage data and AI to improve people’s lives. To that end, I implement machine learning models for brain-computer interfaces. My experience also includes domains like computer vision and speech recognition.
 </p>
 
 <p align=center>
