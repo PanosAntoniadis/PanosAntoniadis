@@ -3,7 +3,7 @@ Hi, my name is Panagiotis Antoniadis 👋
 </h2>
 
 <p align=center>
-I work as a Machine Learning Engineer at <a target="_blank" href="https://deeplab.ai/">DeepLab</a>. My goal is to leverage data and AI to improve people’s lives. To that end, I implement machine learning models for biomedical and neural engineering applications. My experience also includes domains like computer vision and speech recognition.
+I am an <a target="_blank" href="https://ellis.eu/phd-postdoc">ELLIS PhD student</a> in Machine Learning at the University of Copenhagen, supervised by <a target="_blank" href="https://scholar.google.com/citations?user=7VAwhzUAAAAJ&hl=en">Ole Winther</a>. My research focuses on applying deep learning methods to biological applications. Previously, I worked at <a target="_blank" href="https://deeplab.ai/">DeepLab</a>, where I developed generative models for transcriptomics and deep neural networks for EEG-based brain-computer interfaces. I hold a BSc and MSc degree in Electrical and Computer Engineering from <a target="_blank" href="https://www.ece.ntua.gr/en">NTUA</a>, where I completed my thesis on visual emotion recognition under the supervision of <a target="_blank" href="https://scholar.google.com/citations?user=A2XydgGCY9gC&hl=en">Petros Maragos</a>.
 </p>
 
 <p align=center>
